@@ -1,0 +1,6 @@
+{
+  "name": "Daily Quiz Arena",
+  "description": "Fast-paced browser trivia game with Daily Quiz, Quick Play, Streak Mode, and 12 Category Challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
